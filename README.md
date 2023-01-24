@@ -1,6 +1,6 @@
 # online_retail_analysis
 
-This analysis will use Python to analyze an online retail company spanning accross 38 questions. I will answer the following questions:
+This analysis will use Python to analyze an online retail company spanning accross 38 countries. I will answer the following questions:
 
     What items are most frequently bought together?
 
